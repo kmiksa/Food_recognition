@@ -1,0 +1,19 @@
+█epoch     train_loss  valid_loss  accuracy  time    
+█/usr/local/lib/python3.6/dist-packages/fastai/learner.py:54: UserWarning: Saved filed doesn't contain an optimizer state.
+  elif with_opt: warn("Saved filed doesn't contain an optimizer state.")
+█0         2.509240    1.677938    0.737255  24:05     
+Better model found at epoch 0 with accuracy value: 0.7372549176216125.
+██1         2.469225    1.663932    0.740523  23:55     
+Better model found at epoch 1 with accuracy value: 0.7405228614807129.
+██2         2.455745    1.653217    0.747059  23:54     
+Better model found at epoch 2 with accuracy value: 0.7470588088035583.
+██3         2.453593    1.662456    0.744444  23:55     
+██4         2.463725    1.666423    0.743137  23:55     
+██5         2.448566    1.666993    0.743791  23:56     
+██6         2.419146    1.672025    0.739216  23:55     
+██7         2.438409    1.670670    0.743137  23:54     
+██8         2.428349    1.676887    0.741176  23:55     
+██9         2.415132    1.686454    0.742484  23:56     
+██10        2.399833    1.697145    0.733333  23:55     
+██11        2.427740    1.711980    0.732680  23:55     
+█python3: /opt/conda/conda-bld/magma-cuda101_1583546950098/work/interface_cuda/interface.cpp:897: void magma_queue_create_from_cuda_internal(magma_device_t, cudaStream_t, cublasHandle_t, cusparseHandle_t, magma_queue**, const char*, const char*, int): Assertion `queue->dAarray__ != __null' failed.

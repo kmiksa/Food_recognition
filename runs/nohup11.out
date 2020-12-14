@@ -1,0 +1,41 @@
+█epoch     train_loss  valid_loss  accuracy  time    
+█/usr/local/lib/python3.6/dist-packages/fastai/learner.py:54: UserWarning: Saved filed doesn't contain an optimizer state.
+  elif with_opt: warn("Saved filed doesn't contain an optimizer state.")
+█0         2.317216    2.164153    0.604575  24:01     
+Better model found at epoch 0 with accuracy value: 0.6045751571655273.
+██1         2.210361    2.067367    0.632026  23:51     
+Better model found at epoch 1 with accuracy value: 0.6320261359214783.
+██2         2.154393    2.009344    0.647059  23:53     
+Better model found at epoch 2 with accuracy value: 0.6470588445663452.
+██3         2.116276    1.968969    0.660784  23:53     
+Better model found at epoch 3 with accuracy value: 0.6607843041419983.
+██4         2.062679    1.943059    0.662745  23:55     
+Better model found at epoch 4 with accuracy value: 0.6627451181411743.
+██5         2.062414    1.915796    0.669281  23:51     
+Better model found at epoch 5 with accuracy value: 0.6692810654640198.
+██6         1.976426    1.888746    0.686928  23:52     
+Better model found at epoch 6 with accuracy value: 0.6869280934333801.
+██7         1.967112    1.878816    0.686275  23:53     
+██8         1.945524    1.865183    0.688235  23:55     
+Better model found at epoch 8 with accuracy value: 0.6882352828979492.
+██9         1.935791    1.856219    0.687582  23:52     
+██10        1.878006    1.837661    0.688889  23:53     
+Better model found at epoch 10 with accuracy value: 0.6888889074325562.
+██11        1.883928    1.828012    0.695425  23:53     
+Better model found at epoch 11 with accuracy value: 0.6954248547554016.
+██12        1.864591    1.821511    0.699346  23:55     
+Better model found at epoch 12 with accuracy value: 0.6993464231491089.
+██13        1.813881    1.818843    0.705882  23:51     
+Better model found at epoch 13 with accuracy value: 0.7058823704719543.
+██14        1.792030    1.808066    0.707190  23:53     
+Better model found at epoch 14 with accuracy value: 0.7071895599365234.
+██15        1.763676    1.810916    0.713726  23:53     
+Better model found at epoch 15 with accuracy value: 0.7137255072593689.
+██16        1.757129    1.818145    0.707843  23:54     
+██17        1.700540    1.807561    0.701961  23:52     
+██18        1.674044    1.818745    0.703268  23:52     
+██19        1.638956    1.826485    0.700654  23:53     
+██20        1.650007    1.817272    0.702614  23:54     
+██21        1.594707    1.846428    0.684314  23:51     
+██22        1.554491    1.849320    0.693464  23:53     
+█

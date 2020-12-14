@@ -1,0 +1,12 @@
+█epoch     train_loss  valid_loss  accuracy  time    
+██0         4.106906    5.256493    0.120915  2:06:16   
+Better model found at epoch 0 with accuracy value: 0.12091503292322159.
+██1         3.992099    5.115287    0.140523  2:06:26   
+Better model found at epoch 1 with accuracy value: 0.14052288234233856.
+██2         3.851158    5.763207    0.130719  2:06:27   
+██3         3.731198    6.855151    0.107843  2:06:27   
+██4         3.646923    7.010140    0.150327  2:13:54   
+Better model found at epoch 4 with accuracy value: 0.15032680332660675.
+██5         3.608357    7.265177    0.160131  2:10:07   
+Better model found at epoch 5 with accuracy value: 0.16013072431087494.
+█

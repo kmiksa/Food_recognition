@@ -1,0 +1,13 @@
+█epoch     train_loss  valid_loss  accuracy  time    
+█/usr/local/lib/python3.6/dist-packages/fastai/learner.py:54: UserWarning: Saved filed doesn't contain an optimizer state.
+  elif with_opt: warn("Saved filed doesn't contain an optimizer state.")
+█0         1.892342    1.666263    0.751634  27:54     
+Better model found at epoch 0 with accuracy value: 0.7516340017318726.
+██1         1.745085    1.638827    0.764706  27:46     
+Better model found at epoch 1 with accuracy value: 0.7647058963775635.
+██2         1.657840    1.651879    0.751634  27:49     
+██3         1.713303    1.674700    0.764706  27:47     
+██4         1.660110    1.695605    0.745098  27:48     
+██5         1.702826    1.750043    0.712418  27:46     
+██6         1.730881    1.773663    0.699346  27:50     
+█
