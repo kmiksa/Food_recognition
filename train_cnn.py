@@ -30,7 +30,6 @@ class Worker(object):
 
 
 if __name__ == "__main__":
-    print('dupa')
     import argparse
 
     # Parse command line arguments
@@ -56,7 +55,6 @@ if __name__ == "__main__":
     else:
         worker = Worker(args.csv_path, args.batch_size, args.image_size, args.unfreeze)
         
-    print('dupa')
     
   
     data_block = worker.get_dls(worker.batch_size, worker.image_size)
